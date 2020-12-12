@@ -20,7 +20,6 @@ curl 'http://10.27.95.21/LOGIN.XML' \
   -H 'Accept: */*' \
   -H 'Referer: http://10.27.95.21/PAGE12.XML' \
   -H 'Accept-Language: en-US,en;q=0.9,cs-CZ;q=0.8,cs;q=0.7' \
-  -H 'Cookie: SoftPLC=96158569' \
   --compressed \
   --insecure\
   -b cookie.txt

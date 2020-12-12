@@ -23,7 +23,6 @@ curl 'http://10.27.95.21/LOGIN.XML' \
   -H 'Cookie: SoftPLC=96158569' \
   --compressed \
   --insecure\
-  -b cookie.txt\
-  -c cookie.txt
+  -b cookie.txt
   
    
